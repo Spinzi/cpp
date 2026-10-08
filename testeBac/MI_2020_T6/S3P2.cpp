@@ -24,6 +24,4 @@ int main(){
         t = strtok(NULL, " ");
     }
     if(!r)cout<<"nu exista";
-
-
 }
